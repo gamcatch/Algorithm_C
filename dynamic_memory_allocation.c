@@ -13,6 +13,5 @@ int main() {
 
   free(pi);//free the memory of pointer pi 
   free(pf);//free the memory of pointer pf 
-
   return 0;
 }
